@@ -1,3 +1,6 @@
+# reading 
+https://theaisummer.com/receptive-field/
+
 # pytorch-receptive-field
  
 [![Build Status](https://travis-ci.com/Fangyh09/pytorch-receptive-field.svg?branch=master)](https://travis-ci.com/Fangyh09/pytorch-receptive-field)
